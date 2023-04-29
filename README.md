@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Spiky
+- 👀 I’m interested in python and linux stuff
+- 🌱 I’m currently learning linux
